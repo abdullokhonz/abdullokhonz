@@ -94,7 +94,7 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullokhonz&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullokhonz&rank_icon=github&show_icons=true&theme=radical&random=123" alt="GitHub Stats" />
 </div>
 
 ---
@@ -102,7 +102,7 @@
 ### 🧑‍💻 Top Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullokhonz&layout=pie&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullokhonz&layout=pie&theme=radical&random=123" alt="Top Languages" />
 </div>
 
 ---
@@ -110,7 +110,7 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdullokhonz&theme=radical&column=4&no-frame=false&no-bg=false" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abdullokhonz&theme=radical&column=4&no-frame=false&no-bg=false&random=123" alt="GitHub Trophies" />
 </div>
 
 ---
