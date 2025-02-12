@@ -115,6 +115,14 @@
 
 ---
 
+### 🏆 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/abdullokhon?ext=activity" />
+</p>
+
+---
+
 ### 🎧 Spotify Playing
 
 <div align="center">
