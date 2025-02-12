@@ -99,7 +99,7 @@
 
 ---
 
-### 🧑‍💻 Top Languages
+### 🌐 Top Languages
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullokhonz&layout=pie&theme=radical&random=123" alt="Top Languages" />
@@ -115,7 +115,7 @@
 
 ---
 
-### 🏆 LeetCode Stats
+### 💡 LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/abdullokhon?ext=activity" />
@@ -130,6 +130,9 @@
 </div>
 
 ---
+
+### 🧑‍💻 About this profile
+- This is a **custom GitHub profile** showcasing my work and **developer stats**. #GitHubProfile #DeveloperProfile #PersonalPortfolio
 
 <div align="center">
   <img width="500" src="assets/decorations/CodingVibe.gif" />
