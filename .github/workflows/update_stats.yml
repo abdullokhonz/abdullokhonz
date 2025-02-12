@@ -1,0 +1,32 @@
+name: Update GitHub Stats
+
+on:
+  workflow_dispatch:  # Allows manual trigger of the workflow
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Download GitHub stats images
+      run: |
+        # Download GitHub stats images with a random query parameter to avoid caching
+        curl -o assets/stats/github-stats.svg "https://github-readme-stats.vercel.app/api?username=abdullokhonz&rank_icon=github&show_icons=true&theme=radical&random=$(date +'%Y-%m-%d-%H-%M-%S')"
+        curl -o assets/stats/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=abdullokhonz&layout=pie&theme=radical&random=$(date +'%Y-%m-%d-%H-%M-%S')"
+        curl -o assets/stats/github-trophies.svg "https://github-profile-trophy.vercel.app/?username=abdullokhonz&theme=radical&column=4&no-frame=false&no-bg=false&random=$(date +'%Y-%m-%d-%H-%M-%S')"
+
+    - name: Update last_update.txt
+      run: |
+        # Update last_update.txt with the commit message
+        echo "Update stats images: $(date +'%Y-%m-%d %H:%M:%S')" > assets/stats/last_update.txt
+
+    - name: Commit updated stats images
+      run: |
+        git config --global user.name "abdullokhonz"  # Replace with your username
+        git config --global user.email "abdullokhon1206@gmail.com"  # Replace with your email
+        git add assets/stats/github-stats.svg assets/stats/top-langs.svg assets/stats/github-trophies.svg assets/stats/last_update.txt
+        git commit -m "Update stats images: $(date +'%Y-%m-%d %H:%M:%S')"
+        git push
