@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="assets/decorations/Mario.gif" />
+  <a href="https://github.com/abdullokhonz"><img height="300" width="600" src="assets/decorations/Mario.gif" /></a>
 </div>
 
 <h1 align="center">Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> My name is Abdullokhon.</h1>
@@ -10,13 +10,13 @@
 ---
 
 <div align="center">
-  <img src="https://custom-icon-badges.demolab.com/github/followers/abdullokhonz?color=red&style=rounded&label=Followers" />
+  <a href="https://github.com/abdullokhonz"><img src="https://custom-icon-badges.demolab.com/github/followers/abdullokhonz?color=red&style=rounded&label=Followers" /></a>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=abdullokhonz&color=red&style=rounded&label=Profile%20Views" />
+  <a href="https://github.com/abdullokhonz"><img src="https://komarev.com/ghpvc/?username=abdullokhonz&color=red&style=rounded&label=Profile%20Views" /></a>
 </div>
 
 <p align="center">
- <img width="600" src="assets/decorations/github-snake.svg" alt="snake"/>
+  <a href="https://github.com/abdullokhonz"><img width="600" src="assets/decorations/github-snake.svg" alt="snake"/></a>
 </p>
 
 ### 📌 About Me
@@ -94,7 +94,7 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="assets/stats/github-stats.svg" alt="GitHub Stats" />
+  <a href="https://github.com/abdullokhonz"><img src="assets/stats/github-stats.svg" alt="GitHub Stats" /></a>
 </div>
 
 ---
@@ -102,7 +102,7 @@
 ### 🌐 Top Languages
 
 <div align="center">
-  <img src="assets/stats/top-langs.svg" alt="Top Languages" />
+  <a href="https://github.com/abdullokhonz"><img src="assets/stats/top-langs.svg" alt="Top Languages" /></a>
 </div>
 
 ---
@@ -110,7 +110,7 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="assets/stats/github-trophies.svg" alt="GitHub Trophies" />
+  <a href="https://github.com/abdullokhonz"><img src="assets/stats/github-trophies.svg" alt="GitHub Trophies" /></a>
 </div>
 
 ---
@@ -118,7 +118,7 @@
 ### 💡 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/abdullokhon?ext=activity" />
+  <a href="https://leetcode.com/abdullokhon/"><img src="https://leetcard.jacoblin.cool/abdullokhon?ext=activity" /></a>
 </p>
 
 ---
@@ -126,7 +126,7 @@
 ### 🎧 Spotify Playing
 
 <div align="center">
-  <img src="assets/spotify/Godzilla.svg" alt="spotify_eminem_godzilla">
+  <a href="https://github.com/abdullokhonz"><img src="assets/spotify/Godzilla.svg" alt="spotify_eminem_godzilla"></a>
 </div>
 
 ---
@@ -135,5 +135,5 @@
 - This is a **custom GitHub profile** showcasing my work and **developer stats**. #GitHubProfile #DeveloperProfile #PersonalPortfolio
 
 <div align="center">
-  <img width="500" src="assets/decorations/CodingVibe.gif" />
+  <a href="https://github.com/abdullokhonz"><img width="500" src="assets/decorations/CodingVibe.gif" /></a>
 </div>
