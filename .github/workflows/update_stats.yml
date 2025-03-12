@@ -17,6 +17,7 @@ jobs:
         curl -o assets/stats/github-stats.svg "https://github-readme-stats.vercel.app/api?username=abdullokhonz&rank_icon=github&show_icons=true&theme=radical&random=$(date +'%Y-%m-%d-%H-%M-%S')"
         curl -o assets/stats/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=abdullokhonz&layout=pie&theme=radical&random=$(date +'%Y-%m-%d-%H-%M-%S')"
         curl -o assets/stats/github-trophies.svg "https://github-profile-trophy.vercel.app/?username=abdullokhonz&theme=radical&column=4&no-frame=false&no-bg=false&random=$(date +'%Y-%m-%d-%H-%M-%S')"
+        curl -o assets/stats/followers-count.svg "https://custom-icon-badges.demolab.com/github/followers/abdullokhonz?color=red&style=rounded&label=Followers&random=$(date +'%Y-%m-%d-%H-%M-%S')"
 
     - name: Update last_update.txt
       run: |
