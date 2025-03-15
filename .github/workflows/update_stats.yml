@@ -28,6 +28,6 @@ jobs:
       run: |
         git config --global user.name "abdullokhonz"  # Replace with your username
         git config --global user.email "abdullokhon1206@gmail.com"  # Replace with your email
-        git add assets/stats/github-stats.svg assets/stats/top-langs.svg assets/stats/github-trophies.svg assets/stats/last_update.txt
-        git commit -m "Update stats images: $(date +'%Y-%m-%d %H:%M:%S')"
+        git add assets/stats/*.svg assets/stats/last_update.txt
+        git commit -m "Update stats images: $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
         git push
