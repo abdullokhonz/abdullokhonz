@@ -87,6 +87,7 @@
   <a href="https://discord.com/users/1338846895707000862"><img src="https://img.icons8.com/fluency/48/discord.png" alt="Discord"/></a>
   <a href="https://x.com/abdullokhonz"><img src="https://img.icons8.com/ios-filled/50/x.png" alt="X (Twitter)"/></a>
   <a href="https://www.youtube.com/@abdullokhonz"><img src="https://img.icons8.com/fluency/48/youtube-play.png" alt="YouTube"/></a>
+  <a href="https://steamcommunity.com/id/iLLustratorZ/"><img src="https://img.icons8.com/fluency/48/steam.png" alt="Steam"/></a>
 </div>
 
 ---
