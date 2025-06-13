@@ -6,18 +6,12 @@
   </a>
 </div>
 
-<h1 align="center">
-  Hi!
-  <a href="https://github.com/abdullokhonz">
-    <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30">
-  </a>
-  I'm Abdullokhon, 17
-</h1>
+<h1 align="center">Hi!<a href="https://github.com/abdullokhonz"><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"></a>I'm Abdullokhon, 17</h1>
 
 <h3 align="center">✅ Full-Stack Developer | Passion for Development 🔥</h3>
 
 <div align="center">
-  <a href="https://github.com/abdullokhonz"><img src="https://img.shields.io/github/followers/abdullokhonz?label=Followers&color=FF00D5&style=flat&logo=github" alt="GitHub Followers" /></a>
+  <a href="https://github.com/abdullokhonz"><img src="assets/stats/followers-count.svg" alt="Followers Count" /></a>
   <a href="https://github.com/abdullokhonz"><img src="https://komarev.com/ghpvc/?username=abdullokhonz&label=Visitors&color=8900FF&style=flat" alt="Visitor Badge" /></a>
 </div>
 
