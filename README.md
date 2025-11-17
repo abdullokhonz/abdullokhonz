@@ -115,23 +115,12 @@ In my free time, I experiment with game development and new technologies.
 
 ---
 
-### 🧩 LeetCode & 🎧 Spotify
+### 🧩 LeetCode
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://leetcode.com/abdullokhon/">
-          <img src="https://leetcard.jacoblin.cool/abdullokhon?ext=activity" alt="LeetCode Stats"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/abdullokhonz">
-          <img width="300" src="assets/spotify/WhenIGrowUp.svg" alt="spotify_nf_when-i-grow-up"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://leetcode.com/abdullokhon/">
+    <img src="https://leetcard.jacoblin.cool/abdullokhon?ext=activity" alt="LeetCode Stats"/>
+  </a>
 </div>
 
 ---
