@@ -11,7 +11,7 @@
 <h3 align="center">✅ Full-Stack Developer | Passion for Development 🔥</h3>
 
 <div align="center">
-  <a href="https://github.com/abdullokhonz"><img src="assets/stats/followers-count.svg" alt="Followers Count" /></a>
+  <a href="https://github.com/abdullokhonz"><img src="https://raw.githubusercontent.com/dumplingzzzz/dumplingzzzz/1082f0766a07a32c260cf25a319aaaa3ae115c84/assets/stats/followers-count.svg" alt="Followers Count" /></a>
   <a href="https://github.com/abdullokhonz"><img src="https://komarev.com/ghpvc/?username=abdullokhonz&label=Visitors&color=8900FF&style=flat" alt="Visitor Badge" /></a>
 </div>
 
@@ -94,19 +94,19 @@ In my free time, I experiment with game development and new technologies.
     <tr>
       <td>
         <a href="https://github.com/abdullokhonz">
-          <img src="assets/stats/github-stats.svg" width="380px"/>
+          <img src="https://raw.githubusercontent.com/dumplingzzzz/dumplingzzzz/1082f0766a07a32c260cf25a319aaaa3ae115c84/assets/stats/github-stats.svg" width="380px"/>
         </a>
       </td>
       <td rowspan="2">
         <a href="https://github.com/abdullokhonz">
-          <img src="assets/stats/top-langs.svg" width="300px"/>
+          <img src="https://raw.githubusercontent.com/dumplingzzzz/dumplingzzzz/1082f0766a07a32c260cf25a319aaaa3ae115c84/assets/stats/top-langs.svg" width="300px"/>
         </a>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://github.com/abdullokhonz">
-          <img src="assets/stats/github-trophies.svg" width="380px"/>
+          <img src="https://raw.githubusercontent.com/dumplingzzzz/dumplingzzzz/1082f0766a07a32c260cf25a319aaaa3ae115c84/assets/stats/github-trophies.svg" width="380px"/>
         </a>
       </td>
     </tr>
