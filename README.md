@@ -99,7 +99,7 @@ In my free time, I experiment with game development and new technologies.
       </td>
       <td rowspan="2">
         <a href="https://github.com/abdullokhonz">
-          <img src="https://raw.githubusercontent.com/dumplingzzzz/dumplingzzzz/1082f0766a07a32c260cf25a319aaaa3ae115c84/assets/stats/top-langs.svg" width="300px"/>
+          <img src="assets/stats/top-langs.svg" width="300px"/>
         </a>
       </td>
     </tr>
