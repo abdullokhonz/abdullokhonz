@@ -1,5 +1,9 @@
 <br clear="both" />
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:ff0066&height=160&section=header&text=Abdullokhon%20Ghaibulloev&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+</p>
+
 <div align="center">
   <a href="https://github.com/abdullokhonz">
     <img height="300" width="600" src="assets/decorations/Mario.gif" />
@@ -160,3 +164,8 @@ Full-Stack Developer with a passion for clean architecture, process automation, 
   <br><br>
   <em style="color:gray;">Coding in flow... 👨‍💻🎮</em>
 </div>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:ff0066&height=120&section=footer" />
+</p>
