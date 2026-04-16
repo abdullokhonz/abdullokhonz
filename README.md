@@ -77,6 +77,7 @@ Full-Stack Developer with a passion for clean architecture, process automation, 
   <img src="assets/icons/skillicons/js.svg" height="45" alt="JavaScript" />
   <img src="assets/icons/skillicons/ts.svg" height="45" alt="TypeScript" />
   <img src="assets/icons/skillicons/bootstrap.svg" height="45" alt="Bootstrap" />
+  <img src="assets/icons/skillicons/gamemakerstudio.svg" height="45" alt="GameMaker Studio" />
   <br>
   <img src="assets/icons/shields/blazor.svg" height="30" alt="Blazor" />
   <br><br>
