@@ -99,6 +99,7 @@ Full-Stack Developer with a passion for clean architecture, process automation, 
   <img src="assets/icons/skillicons/webstorm.svg" height="45" alt="WebStorm" />
   <img src="assets/icons/skillicons/pycharm.svg" height="45" alt="PyCharm" />
   <img src="assets/icons/skillicons/clion.svg" height="45" alt="CLion" />
+  <img src="assets/icons/skillicons/androidstudio.svg" height="45" alt="Android Studio" />
   <br>
   <img src="assets/icons/shields/codeblocks.svg" height="30" alt="CodeBlocks" />
   <br><br>
