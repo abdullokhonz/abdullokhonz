@@ -90,6 +90,7 @@ Full-Stack Developer with a passion for clean architecture, process automation, 
   <img src="assets/icons/skillicons/postman.svg" height="45" alt="Postman" />
   <img src="assets/icons/skillicons/figma.svg" height="45" alt="Figma" />
   <img src="assets/icons/skillicons/obsidian.svg" height="45" alt="Obsidian" />
+  <img src="assets/icons/skillicons/blender.svg" height="45" alt="Blender" />
   <br><br>
 
   <p><strong>🛠️ IDEs & Editors</strong></p>
