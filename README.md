@@ -53,7 +53,7 @@ Full-Stack Developer with a passion for clean architecture, process automation, 
 <div align="center">
   <a href="https://t.me/abdullokhonz"><img src="assets/icons/icons8/telegram-app.png" width="48" alt="Telegram"/></a>
   <a href="https://www.instagram.com/abdullokhonz"><img src="assets/icons/icons8/instagram-new.png" width="48" alt="Instagram"/></a>
-  <a href="https://www.linkedin.com/in/abdullokhon-ghaibulloev-a24a8430a"><img src="assets/icons/icons8/linkedin.png" width="48" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/abdullokhon-ghaibulloev-73864a412"><img src="assets/icons/icons8/linkedin.png" width="48" alt="LinkedIn"/></a>
   <a href="https://discord.com/users/1338846895707000862"><img src="assets/icons/icons8/discord.png" width="48" alt="Discord"/></a>
   <a href="https://x.com/abdullokhonz"><img src="assets/icons/icons8/x.png" width="48" alt="X (Twitter)"/></a>
   <a href="https://www.youtube.com/@abdullokhonz"><img src="assets/icons/icons8/youtube-play.png" width="48" alt="YouTube"/></a>
