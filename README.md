@@ -10,7 +10,7 @@
   </a>
 </div>
 
-<h1 align="center">Hi! <a href="https://github.com/abdullokhonz"><img src="assets/decorations/hello.gif" width="30"></a> I'm Abdullokhon, 17 (turning 18 soon! 🎂)</h1>
+<h1 align="center">Hi! <a href="https://github.com/abdullokhonz"><img src="assets/decorations/hello.gif" width="30"></a> I'm Abdullokhon</h1>
 
 <div align="center">
   <a href="https://github.com/abdullokhonz">
